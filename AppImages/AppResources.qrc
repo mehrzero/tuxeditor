@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Zoom Out.png</file>
+        <file>Zoom In.png</file>
+        <file>Undo.png</file>
+        <file>Trash.png</file>
+        <file>Save As 2.png</file>
+        <file>Save As.png</file>
+        <file>Save.png</file>
+        <file>Refresh.png</file>
+        <file>Redo.png</file>
+        <file>Paste.png</file>
+        <file>Open.png</file>
+        <file>Notepad.png</file>
+        <file>New.png</file>
+        <file>Move.png</file>
+        <file>Import.png</file>
+        <file>Folder New.png</file>
+        <file>Folder Find.png</file>
+        <file>Folder.png</file>
+        <file>Favorites New.png</file>
+        <file>Favorites.png</file>
+        <file>Export.png</file>
+        <file>Edit.png</file>
+        <file>Documents.png</file>
+        <file>Cut.png</file>
+        <file>Copy.png</file>
+        <file>AppResources.qrc</file>
+        <file>App.png</file>
+        <file>Address Book.png</file>
+        <file>Add.png</file>
+    </qresource>
+</RCC>
